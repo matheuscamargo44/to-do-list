@@ -30,7 +30,7 @@ src/main/resources/
 ```
 
 ## Autor
-- Seu nome
+- Matheus Cavalheiro de Camargo
 
 ## Licença
 Este projeto está sob a licença MIT.
